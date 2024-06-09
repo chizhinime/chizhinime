@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chizhinime
 - 👀 I’m interested in computers.
 - 🌱 I’m currently learning programming.
-- 💞️ I’m looking to collaborate on software development.
+- 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me on my social media.
 
 <!---
