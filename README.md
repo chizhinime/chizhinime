@@ -19,10 +19,12 @@ Welcome to my GitHub! 👨‍💻 I'm Chizhinime Chijioke, a passionate Computer
 Let's get in touch! Feel free to drop me a message or check out my other platforms:
 
 - [Instagram](https://www.instagram.com/chizhimchijioke)
+- [YouTube](https://www.youtube.com/@chizhimchijioke)
 - [TikTok](https://www.tiktok.com/@chizhimchijioke)
 - [Twitter](https://twitter.com/ChizhinimeC)
 - [Facebook](https://www.facebook.com/ChizhinimeChijioke)
 - [GitHub](https://github.com/chizhinime)
+- [Pinterest](https://www.pinterest.com/chizhimchijioke)
 
 Thanks for visiting! Let's build, learn, and inspire each other. 🌟
 
