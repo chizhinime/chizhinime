@@ -1,70 +1,62 @@
-<h1 align="center">Hi there, I'm Chizhinime 👋</h1>
+# 👋 Hi, I'm Chizhinime Chijioke
 
-<p align="center">
-  🌍 Tech Enthusiast | 🎓 Computer Science Student | 💻 Frontend Developer | 🚀 Lifelong Learner
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="100" alt="coding gif"/>
-</p>
+### 💻 Frontend Web Developer | 🛠️ Computer Systems Technician | 🎓 AI Enthusiast
 
 ---
 
-### 👨‍💻 About Me
-
-- 🧠 Self-taught frontend developer with a passion for creating clean, user-friendly web experiences.
-- 🎯 Focused on building projects that solve real-life problems.
-- 📍 Based in Nigeria, exploring the world of tech one line of code at a time.
-- ✝️ Faith-driven, purpose-focused, impact-oriented.
+### 🚀 About Me
+I'm a passionate and detail-oriented **Frontend Web Developer** and **Computer Systems Technician** dedicated to solving real-world problems through technology. With a strong foundation in both software and hardware, I bring a unique blend of creativity, technical skill, and practical experience to every project I work on.
 
 ---
 
-### 💼 Tech Stack
+### 🧠 Skills & Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,figma,github,git" alt="Tech stack" />
+**Frontend Development**
+- HTML | CSS | JavaScript | React
+- Responsive Web Design | UI/UX | TailwindCSS
+- Git & GitHub | VS Code | APIs
 
----
+**Technical Support & Systems**
+- Computer Diagnostics & Repairs
+- OS Installation (Windows/Linux)
+- Hardware Upgrades | Networking | Cybersecurity Basics
 
-### 🌱 Currently Learning
-
-- 📚 React & Tailwind CSS
-- 🐍 Python Programming
-- 🧠 AI Concepts & Practical Applications
-- 🇰🇷 Korean Language (Self-study)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="150"/>
-</p>
+**Other Tools**
+- Canva | Figma | Python (Basic) | Command Line
 
 ---
 
-### 📌 Featured Projects
+### 📜 Qualifications
 
-- 🎯 [SafeCity.net](#) – A platform for reporting, learning, and connecting on safety issues.
-- 🌾 [E-Agro Platform](#) – Helping farmers in Rivers State connect and thrive.
-- 🧾 [Resume Builder](#) – Build and download resumes in seconds.
-
----
-
-### 📫 Let's Connect
-
-<p>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge"/></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&style=for-the-badge"/></a>
-  <a href="https://youtube.com/@your-channel"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge"/></a>
-</p>
+- 🎓 B.Sc. in Computer Science (Final Year)
+- 📘 Diploma in Artificial Intelligence – IDEAS Program, Baze University
+- 💼 Certified Computer Systems Technician
+- 👨‍💻 3-month Frontend Development Training
+- 🧰 6-month Internship in Computer Repair & Maintenance
+- 🧪 AI Course (In Progress)
 
 ---
 
-> "Building digital experiences that blend creativity, purpose, and technology."
+### 🌱 What I'm Learning Now
+
+- Advanced React & Tailwind Projects  
+- Building Fullstack Web Applications  
+- Strengthening Python & Algorithm Skills  
+- Exploring AI Integration in Web Development
 
 ---
 
-<!-- Optional: Snake contribution graph -->
-![snake gif](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+### 📫 Let’s Connect
+
+- Portfolio: [YourPortfolio.com](#)  
+- LinkedIn: [linkedin.com/in/yourname](#)  
+- Email: yourname@email.com  
+
+---
+
+### ✨ Fun Fact
+I’m also exploring **content creation**, love all things tech, and I’m committed to using my skills to create impact in Nigeria and beyond 🌍
+
+---
+
+![Quote](https://img.shields.io/badge/Code_with_purpose-✨-blueviolet)
