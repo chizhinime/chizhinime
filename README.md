@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chizhinime Chijioke
+# 👋 Hi, I'm Chizhinime
 
 ### 💻 Frontend Web Developer | 🛠️ Computer Systems Technician | 🎓 AI Enthusiast
 
@@ -48,15 +48,11 @@ I'm a passionate and detail-oriented **Frontend Web Developer** and **Computer S
 
 ### 📫 Let’s Connect
 
-- Portfolio: [YourPortfolio.com](#)  
-- LinkedIn: [linkedin.com/in/yourname](#)  
-- Email: yourname@email.com  
+- Portfolio: [chizverse.com](#)  
+- LinkedIn: [linkedin.com/in/chizhinime](#)  
+- Email: chizhinimec@gmail.com  
 
 ---
 
 ### ✨ Fun Fact
 I’m also exploring **content creation**, love all things tech, and I’m committed to using my skills to create impact in Nigeria and beyond 🌍
-
----
-
-![Quote](https://img.shields.io/badge/Code_with_purpose-✨-blueviolet)
