@@ -22,7 +22,7 @@ I'm a passionate and detail-oriented **Frontend Web Developer** and **Computer S
 - Hardware Upgrades | Networking | Cybersecurity Basics
 
 **Other Tools**
-- Canva | Figma | Python (Basic) | Command Line
+- Canva | Figma | Python | Command Line
 
 ---
 
@@ -49,7 +49,7 @@ I'm a passionate and detail-oriented **Frontend Web Developer** and **Computer S
 ### 📫 Let’s Connect
 
 - Portfolio: [chizverse.com](#)  
-- LinkedIn: [linkedin.com/in/chizhinime](#)  
+- LinkedIn: [linkedin.com/in/chizhinime-chijioke](#)  
 - Email: chizhinimec@gmail.com  
 
 ---
