@@ -21,6 +21,8 @@ I love building web apps, learning new technologies, and sharing knowledge with 
 | Project | Description | Link |
 | --- | --- | --- |
 | Portfolio Website | A responsive personal portfolio built with HTML, CSS, and JavScript | [View on GitHub](https://github.com/chizhinime/portfolio) |
+| Responsive Landing Page Website | A modern, fully responsive landing page built with HTML, CSS, and JavaScript that adapts smoothly to all screen sizes. | [View on GitHub](https://github.com/chizhinime/responsive-landing-page)|
+| Aesthetic Study Timer Website | A beautifully styled browser-based digital study clock to help you stay focused and track your study sessions. | [View on GitHub](https://github.com/chizhinime/digital-study-clock) |
 
 ## GitHub Stats
 
